@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LGPD</string>
+    <string name="mensagem_inicial">Bem-vindos ao LGPD Fácil</string>
+    <string name="action_buscar">Buscar</string>
+    <string name="quemsomos">Quem Somos</string>
+    <string name="alei">A Lei</string>
+    <string name="diagnostico">Diagnóstico</string>
+    <string name="faleconosco">Fale Conosco</string>
+</resources>
